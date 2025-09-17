@@ -1,0 +1,21 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.622 dir
+   2        0.186 md bmlrep03
+   3        0.032 cd bmlrep03
+   4        0.311 git init
+   5        0.235 notepad .\helloWorld.ps1
+   6        0.126 git add .
+   7        0.240 git commit -m "Initial commit"
+   8        0.149 git remote add origin https://github.com/mcarbitrage/bmlrep03.git
+   9        3.228 git push -u origin main
+  10        0.061 git remote add origin https://github.com/mcarbitrage/bmlrep03.git
+  11        1.992 git push -u origin main
+  12        0.109 git status
+  13        0.147 git add .
+  14        0.082 git status
+  15        0.184 git commit -m "Git setup fun and script"
+  16        2.424 git push -u origin main
+  17        0.089 h
+
